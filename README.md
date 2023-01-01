@@ -11,7 +11,7 @@
 
 - 📫 Você me acha através do e-mail **jeronimoadornes@gmail.com**
 
-- 📄 Para conhecer um pouco mais sobre as minhas experiências acesse [www.linkedin.com/in/jeronimoadornes](www.linkedin.com/in/jeronimoadornes)
+- 📄 Para conhecer um pouco mais sobre as minhas experiências acesse [LinkedIn](https://www.linkedin.com/in/jeronimoadornes/)
 
 - ⚡ Curiosity fact **Tech Enthusiast, Methodical**
 
