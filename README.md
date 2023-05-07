@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Jerônimo Adornes</h1>
 <h3 align="center">E estou realmente empenhado em me tornar um Cientista de Dados</h3>
 
-- 🔭 Atualmente estou trabalhando como outsourced employee na empresa Petrobras **Dados_de_inspeção_PARADA_MAN2022**
+- 🔭 Atualmente estou trabalhando como outsourced employee na empresa Petrobras **Dados_de_inspeção_Petrole_e_Gas**
 
 - 🌱 Atualmente estou aprendendo **Python, SQL, Machine Learning e Power BI**
 
