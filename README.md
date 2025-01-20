@@ -11,7 +11,7 @@
 
 - 📄 Para conhecer um pouco mais sobre as minhas experiências acesse [LinkedIn](https://www.linkedin.com/in/jeronimoadornes/)
 
-- ⚡ Curiosity fact **Tech Enthusiast, Methodical and Split Keyhboard Builder**
+- ⚡ Curiosity fact: **Tech Enthusiast, Methodical and Split Keyboard Builder**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -43,6 +43,9 @@
   <!-- POWER BI -->
   <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi/" target="_blank" rel="noreferrer" title="Microsoft Power BI">
     <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" alt="Power BI" width="50" height="50" align="middle"/></a>
+    <!-- SQL Server -->
+  <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" rel="noreferrer" title="SQL SERVER">
+    <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" alt="Power BI" width="50" height="50" align="middle"/></a>
   <!-- EXCEL -->
   <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer" title="Microsoft Excel">
     <img src="https://logospng.org/download/microsoft-excel/logo-microsoft-excel-512.png" width="50px" height="50px" align="middle"/></a>
@@ -63,11 +66,14 @@
 <h5 align="center">Secondary Tools and Languages:</h5>
 <p align="center">
    <!-- Google Big Query -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Google Big Query">
+  <a href="https://console.cloud.google.com/bigquery" target="_blank" rel="noreferrer" title="Google Big Query">
     <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="Google Big Query" width="35px" height="35px" align="middle"/></a>
   <!-- Jupyter Notebook -->
   <a href="https://jupyter.org/" rel="noreferrer" title="Jupyter Notebook">
     <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="35px" height="35px" align="middle"/></a>
+    <!-- SSMS -->
+  <a href="https://learn.microsoft.com/pt-br/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16" rel="noreferrer" title="SSMS">
+    <img src="https://bobcares.com/wp-content/uploads/2022/03/Image2-2.png" width="40px" height="40px" align="middle"/></a>
    <!-- FIGMA -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30px" height="30px" align="middle"/></a>
@@ -81,7 +87,7 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" rel="noreferrer" title="CSS">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/600px-Official_CSS_Logo.svg.png" width="30px" height="30px" align="middle"/></a>
    <!-- Javascript -->
-  <a href="https://jupyter.org/" rel="noreferrer" title="Javascript">
+  <a href="https://www.javascript.com/" rel="noreferrer" title="Javascript">
     <img src="https://code.visualstudio.com/assets/home/language-js.png" width="35px" height="35px" align="middle"/></a>
        <!-- HTML -->
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML">
