@@ -73,7 +73,7 @@
     <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="35px" height="35px" align="middle"/></a>
     <!-- SSMS -->
   <a href="https://learn.microsoft.com/pt-br/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16" rel="noreferrer" title="SSMS">
-    <img src="https://bobcares.com/wp-content/uploads/2022/03/Image2-2.png" width="40px" height="40px" align="middle"/></a>
+    <img src="https://bobcares.com/wp-content/uploads/2022/03/Image2-2.png" width="35px" height="35px" align="middle"/></a>
    <!-- FIGMA -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30px" height="30px" align="middle"/></a>
