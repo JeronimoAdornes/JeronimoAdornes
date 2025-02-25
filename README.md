@@ -57,7 +57,7 @@
     <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="50px" height="50px" align="middle"/></a>
   <!-- TDV TIBCO -->
   <a href="https://docs.tibco.com/products/tibco-data-virtualization" rel="noreferrer" title="TIBCO Data Virtualization (TDV)">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tibco_logo_icon_170502.png" width="50px" height="50px" align="middle"/></a>
+    <img src="https://i.ytimg.com/vi/-sPIN4ui1gQ/maxresdefault.jpg" width="80px" height="50px" align="middle"/></a>
   <!-- OBSIDIAN -->
   <a href="https://obsidian.md/" target="_blank" rel="noreferrer" title="Obsidian">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/240px-2023_Obsidian_logo.svg.png" width="50px" height="50px" align="middle"/></a>
