@@ -100,6 +100,16 @@
   </p>
 </div>
 
+<h3 align="center">   Meus Status no GitHub :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JeronimoAdornes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
+
+###
+
 
 <!---
 JeronimoAdornes/JeronimoAdornes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
