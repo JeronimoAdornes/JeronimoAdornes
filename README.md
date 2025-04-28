@@ -21,9 +21,6 @@
   <!-- INSTA -->
   <a href="https://instagram.com/efexx.tech" target="blank" title="Instagram">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" align="middle"/></a>
-  <!-- ROADMAP -->
-  <a href="https://roadmap.sh/u/efexx" target="blank" title="My Study Roadmaps">
-    <img src="https://avatars.githubusercontent.com/u/120650344?s=280&v=4" alt="Roadmap" height="40" width="40" align="middle"/>
 </a>
 </p>
 
